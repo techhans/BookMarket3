@@ -53,7 +53,7 @@ public class BookRepositoryImpl implements BookRepository{
 	        book3.setUnitsInStock(1000);
 	        book3.setReleaseDate("2019/05/29");
 
-	          listOfBooks.add(book1);
+	        listOfBooks.add(book1);
 	        listOfBooks.add(book2);
 	        listOfBooks.add(book3);
 	    
